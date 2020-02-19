@@ -12,7 +12,7 @@ a [Sails v1](https://sailsjs.com) application
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
 
 
-### Version info
+### Version info 1.0
 
 This app was originally generated on Wed Feb 19 2020 15:46:07 GMT+0800 (Hong Kong Standard Time) using Sails v1.2.3.
 
